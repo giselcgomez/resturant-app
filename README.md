@@ -2,10 +2,10 @@
 MIT LICENSE
 
 ## How to Run:
-- 1st time you are running it
-- Download all files to a directory
+- RUN THE FOLLOWING THE 1st time you are running it
+### Download all files to a directory
 
-### FRONT END
+### TO RUN FRONT END
 In terminal type:
 * > cd restaurant-app
 * > npm install
@@ -13,7 +13,7 @@ In terminal type:
 
 - You should be able to open the app in localhost:3000
 
-### BACKEND
+### TO RUN BACKEND
 ### In terminal type:
 * > cd backend
 * > nvm use 12.0.0
@@ -21,7 +21,7 @@ In terminal type:
 * > npm run build
 * > npm run develop
 
-### After the first run use the following for the Backend
+### RUN THIS After the first TIME TO run the Backend
 * > nvm use 12.0.0
 * > npm install
 * > npm run start

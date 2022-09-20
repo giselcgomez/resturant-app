@@ -1,9 +1,9 @@
 # resturant-app
-MIT 
+MIT LICENSE
 
 ## How to Run:
-1st time you are running it
-Download all files to a directory
+- 1st time you are running it
+- Download all files to a directory
 
 ### FRONT END
 In terminal type:
@@ -11,7 +11,7 @@ In terminal type:
 * > npm install
 * > npm run dev
 
-You should be able to open the app in localhost:3000
+- You should be able to open the app in localhost:3000
 
 ### BACKEND
 ### In terminal type:
@@ -26,6 +26,5 @@ You should be able to open the app in localhost:3000
 * > npm install
 * > npm run start
 
-backend: http://localhost:1337
+- backend: http://localhost:1337
 
-This application is not working
